@@ -1,0 +1,9 @@
+[
+    { "category": "Pizza", "name": "Margherita", "price": "5.00", "image": "img/pizza_margherita.jpg" },
+    { "category": "Pizza", "name": "Diavola", "price": "6.50", "image": "img/pizza_diavola.jpg" },
+    { "category": "Pizza", "name": "Quattro Stagioni", "price": "7.00", "image": "img/pizza_quattro_stagioni.jpg" },
+    { "category": "Pizza", "name": "Capricciosa", "price": "7.50", "image": "img/pizza_capricciosa.jpg" },
+    { "category": "Pollo", "name": "Pollo Fritto", "price": "7.00", "image": "img/pollo_fritto.jpg" },
+    { "category": "Bevande", "name": "Coca-Cola", "price": "2.00", "image": "img/coca_cola.jpg" },
+    { "category": "Dolci", "name": "Tiramisù", "price": "4.00", "image": "img/tiramisu.jpg" }
+]
