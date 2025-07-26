@@ -19,8 +19,8 @@
     { "nome": "4 Formaggi", "descrizione": "Fior di latte, grana, caciocavallo, gorgonzola", "prezzo": "Normale 6.50 € - Familiare 13.00 €" },
     { "nome": "San Daniele", "descrizione": "Pomodoro, fior di latte, crudo, rucola, scaglie di grana", "prezzo": "Normale 7.00 € - Familiare 14.00 €" },
     { "nome": "Norma", "descrizione": "Pomodoro, fior di latte, melanzane, ricotta al forno", "prezzo": "Normale 6.50 € - Familiare 13.00 €" },
-    { "nome": "Calzone", "descrizione": "Pomodoro, fior di latte, prosciutto cotto", "prezzo": "Normale 6.00 € - Familiare 12.00 €" },
-    { "nome": "Pizzotto", "descrizione": "Pomodoro, fior di latte, patatine fritte, prosciutto cotto, wurstel", "prezzo": "Normale 6.50 € - Familiare 13.00 €" },
+    { "nome": "Calzone", "descrizione": "Pomodoro, fior di latte, prosciutto cotto", "prezzo": "Normale 6.00 €" },
+    { "nome": "Pizzotto", "descrizione": "Pomodoro, fior di latte, patatine fritte, prosciutto cotto, wurstel", "prezzo": "Normale 6.50 €" },
     { "nome": "Vegetariana", "descrizione": "Pomodoro, fior di latte, funghi, carciofi, spinaci, melanzane", "prezzo": "Normale 6.50 € - Familiare 13.00 €" },
     { "nome": "Braccio di ferro", "descrizione": "Pomodoro, fior di latte, spinaci, ricotta al forno", "prezzo": "Normale 6.50 € - Familiare 13.00 €" },
     { "nome": "Chicken", "descrizione": "Pomodoro, fior di latte, patatine fritte, birbe di pollo, salsa BBQ", "prezzo": "Normale 7.00 € - Familiare 14.00 €" }
