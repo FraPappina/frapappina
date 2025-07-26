@@ -37,11 +37,11 @@
   ],
 
   "Bibite": [
-    { "nome": "Acqua Naturale", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" },
-    { "nome": "Acqua Frizzante", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" },
-    { "nome": "Coca-Cola", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
-    { "nome": "Fanta", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
-    { "nome": "Sprite", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
-    { "nome": "Chinotto", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" }
+    { "nome": "Acqua Naturale", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" ,"img": "img/naturale.jpg"},
+    { "nome": "Acqua Frizzante", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €","img": "img/frizzante.jpg"},
+    { "nome": "Coca-Cola", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" ,"img": "img/Coca_Cola.jpg" },
+    { "nome": "Fanta", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" ,"img": "img/fanta.jpg"},
+    { "nome": "Sprite", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" ,"img": "img/sprite.jpg"},
+    { "nome": "Chinotto", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" ,"img": "img/chinotto.jpg"}
   ]
 }

@@ -14,7 +14,11 @@ fetch('menu.json')
       data[categoria].forEach(item => {
         const div = document.createElement('div');
         div.classList.add('menu-item');
+
+        const imgHTML = item.img ? `<img src="${item.img}" alt="${item.nome}" class="menu-item-img">` : '';
+
         div.innerHTML = `
+          ${imgHTML}
           <h3>${item.nome}</h3>
           <p>${item.descrizione}</p>
           <p><strong>${item.prezzo}</strong></p>
