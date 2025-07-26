@@ -1,20 +1,49 @@
 {
-  "Antipasti": [
-    { "nome": "Bruschette", "descrizione": "Pane tostato con pomodoro fresco e basilico", "prezzo": "4.00 €" },
-    { "nome": "Patatine Fritte", "descrizione": "Patate croccanti con salsa a scelta", "prezzo": "3.50 €" }
-  ],
+
   "Pollo": [
-    { "nome": "Pollo Fritto", "descrizione": "Croccante e dorato, con contorno di patatine", "prezzo": "7.00 €" },
-    { "nome": "Ali di Pollo", "descrizione": "Ali speziate e fritte", "prezzo": "6.50 €" }
+{ "nome": "1 Pollo + Contorno", "descrizione": "Patate (Fritte - Forno - Miste), Panelline, Arancinette", "prezzo": "14.00 €" },
+{ "nome": "1/2 Pollo + Contorno", "descrizione": "Patate (Fritte - Forno - Miste), Panelline, Arancinette", "prezzo": "7.00 €" }
+
   ],
-  "Pizze": [
-    { "nome": "Pizza Margherita", "descrizione": "Pomodoro, mozzarella, basilico", "prezzo": "5.00 €" },
-    { "nome": "Pizza Diavola", "descrizione": "Pomodoro, mozzarella, salame piccante", "prezzo": "6.50 €" },
-    { "nome": "Pizza Quattro Stagioni", "descrizione": "Pomodoro, mozzarella, funghi, prosciutto, carciofi, olive", "prezzo": "7.00 €" }
+  "Pizze Classiche": [
+    { "nome": "Margherita", "descrizione": "Pomodoro, fior di latte", "prezzo": "Normale 4.00 € - Familiare 8.00 €" },
+    { "nome": "Napoli", "descrizione": "Pomodoro, fior di latte, acciughe", "prezzo": "4.00 €" },
+    { "nome": "Romana", "descrizione": "Pomodoro, fior di latte, prosciutto cotto", "prezzo": "5.00 €" },
+    { "nome": "Marinara", "descrizione": "Pomodoro, aglio, acciughe, olio, origano", "prezzo": "4.50 €" },
+    { "nome": "Sfincione", "descrizione": "Pomodoro, acciughe, cipolla, caciocavallo, mollica", "prezzo": "5.50 €" },
+    { "nome": "Diavola", "descrizione": "Pomodoro, fior di latte, salame piccante", "prezzo": "5.00 €" },
+    { "nome": "4 Gusti", "descrizione": "Pomodoro, fior di latte, prosciutto cotto, funghi, wurstel", "prezzo": "6.00 €" },
+    { "nome": "Capricciosa", "descrizione": "Pomodoro, fior di latte, prosciutto cotto, funghi, carciofi, wurstel, olive", "prezzo": "6.50 €" },
+    { "nome": "Tonnarella", "descrizione": "Pomodoro, fior di latte, tonno, cipolla", "prezzo": "6.50 €" },
+    { "nome": "Parmigiana", "descrizione": "Pomodoro, fior di latte, melanzane, scaglie di grana", "prezzo": "6.50 €" },
+    { "nome": "Patatosa", "descrizione": "Pomodoro, fior di latte, Patatine fritte, wurstel", "prezzo": "5.50 €" },
+    { "nome": "4 Formaggi", "descrizione": "Fior di latte, grana, caciocavallo, gorgonzola", "prezzo": "6.50 €" },
+    { "nome": "San Daniele", "descrizione": "Pomodoro, fior di latte, crudo, rucola, scaglie di grana", "prezzo": "7.00 €" },
+    { "nome": "Norma", "descrizione": "Pomodoro, fior di latte, melanzane, ricotta al forno", "prezzo": "6.50 €" },
+    { "nome": "Calzone", "descrizione": "Pomodoro, fior di latte, prosciutto cotto", "prezzo": "6.00 €" },
+    { "nome": "Pizzotto", "descrizione": "Pomodoro, fior di latte, patatine fritte, prosciutto cotto, wurstel", "prezzo": "6.50 €" },
+    { "nome": "Vegetariana", "descrizione": "Pomodoro, fior di latte, funghi, carciofi, spinaci, melanzane", "prezzo": "6.50 €" },
+    { "nome": "Braccio di ferro", "descrizione": "Pomodoro, fior di latte, spinaci, ricotta al forno", "prezzo": "6.50 €" },
+    { "nome": "Chicken", "descrizione": "Pomodoro, fior di latte, patatine fritte, birbe di pollo, salsa BBQ", "prezzo": "7.00 €" }
+
   ],
+
+    "Pizze Speciali": [
+{ "nome": "Bufalina", "descrizione": "Pomodoro, mozzarella di bufala", "prezzo": "6.50 €" },
+{ "nome": "Fornara", "descrizione": "Pomodoro, fior di latte, salsiccia, patate al forno", "prezzo": "7.00 €" },
+{ "nome": "Pistacchiosa", "descrizione": "Pomodoro, mozzarella di bufala, mortadella, pesto di pistacchi", "prezzo": "8.00 €" },
+{ "nome": "Cappuccini", "descrizione": "Pomodoro, fior di latte, salsiccia, funghi, rucola, grana", "prezzo": "7.50 €" },
+{ "nome": "Fra Pappina", "descrizione": "Pomodoro, fior di latte, tonno, pomodoro secco, capperi, cipolla", "prezzo": "7.50 €" },
+{ "nome": "Sofia", "descrizione": "Pomodoro, Mozzarella di bufala, prosciutto crudo, pomodorino, noci, miele", "prezzo": "8.50 €" },
+{ "nome": "Gorgo e Noci", "descrizione": "Pomodoro, fior di latte, gorgonzola, noci", "prezzo": "7.00 €" }
+  ],
+
   "Bibite": [
-    { "nome": "Coca-Cola", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
     { "nome": "Acqua Naturale", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" },
-    { "nome": "Acqua Frizzante", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" }
+    { "nome": "Acqua Frizzante", "descrizione": "Bottiglia 50cl", "prezzo": "1.00 €" },
+    { "nome": "Coca-Cola", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
+    { "nome": "Fanta", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
+    { "nome": "Sprite", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" },
+    { "nome": "Chinotto", "descrizione": "Lattina 33cl", "prezzo": "2.00 €" }
   ]
 }
